@@ -1,3 +1,7 @@
+# eggcarton
+
+This should be a public-facing webpage on github that draws information from the various research folders I have stored there. Mainly an experiment in information management.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bmurley/eggcarton/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
